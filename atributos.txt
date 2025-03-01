@@ -1,0 +1,79 @@
+Listado de archivos en '/home/july':
+--------------------------------------------------
+Archivo: atributos.sh
+Permisos: -rwxr-xr-x
+Usuario: july
+Grupo: july
+Tamaño: 1485 bytes
+Última modificación: Feb 21 21:39
+--------------------------------------------------
+Archivo: atributos.txt
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 264 bytes
+Última modificación: Feb 21 21:44
+--------------------------------------------------
+Archivo: copia_archivos.sh
+Permisos: -rwxr-xr-x
+Usuario: july
+Grupo: july
+Tamaño: 1009 bytes
+Última modificación: Feb 21 21:23
+--------------------------------------------------
+Archivo: echo
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 0 bytes
+Última modificación: Feb 21 21:19
+--------------------------------------------------
+Archivo: exit
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 0 bytes
+Última modificación: Feb 21 21:19
+--------------------------------------------------
+Archivo: fi
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 0 bytes
+Última modificación: Feb 21 21:19
+--------------------------------------------------
+Archivo: hola_mundo.sh
+Permisos: -rwxr-xr-x
+Usuario: july
+Grupo: july
+Tamaño: 30 bytes
+Última modificación: Feb 21 20:50
+--------------------------------------------------
+Archivo: mi_archivo.txt
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 33298 bytes
+Última modificación: Feb 21 21:24
+--------------------------------------------------
+Archivo: platillos
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 62 bytes
+Última modificación: Feb 21 20:31
+--------------------------------------------------
+Archivo: platillos.txt
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 62 bytes
+Última modificación: Feb 21 20:35
+--------------------------------------------------
+Archivo: platillos2.txt
+Permisos: -rw-r--r--
+Usuario: july
+Grupo: july
+Tamaño: 62 bytes
+Última modificación: Feb 21 20:36
+--------------------------------------------------
