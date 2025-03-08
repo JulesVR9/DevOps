@@ -2,7 +2,7 @@
 """
 Created on Tue Mar  4 17:17:07 2025
 
-@author: mxfer
+@author: julia
 """
 
 import act7_1_numeros

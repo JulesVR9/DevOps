@@ -2,7 +2,7 @@
 """
 Created on Tue Mar  4 17:07:21 2025
 
-@author: mxfer
+@author: julia
 """
 
 class Numeros:
